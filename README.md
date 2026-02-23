@@ -10,12 +10,6 @@ Install all skills from this repository:
 npx skills add liux4989/deepwiki-parallel-wiki
 ```
 
-Same pattern as:
-
-```bash
-npx skills add vercel-labs/agent-skills
-```
-
 ## Included skills
 
 - `deepwiki-parallel-wiki`: Generate DeepWiki-like project wiki docs using parallel workstreams.
