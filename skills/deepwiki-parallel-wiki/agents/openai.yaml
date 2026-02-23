@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepWiki Parallel Wiki"
+  short_description: "Build DeepWiki-like project wikis in parallel"
+  default_prompt: "Use $deepwiki-parallel-wiki to generate a DeepWiki-style wiki from this repository."
